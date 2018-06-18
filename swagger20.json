@@ -2503,7 +2503,7 @@
           "default" : "NOK",
           "minLength" : 3,
           "maxLength" : 3,
-          "pattern" : "`^[A-Z]{3}$",
+          "pattern" : "^[A-Z]{3}$",
           "example" : "NOK"
         },
         "amount" : {
@@ -2730,7 +2730,7 @@
           "default" : "NOK",
           "minLength" : 3,
           "maxLength" : 3,
-          "pattern" : "`^[A-Z]{3}$",
+          "pattern" : "^[A-Z]{3}$",
           "example" : "NOK"
         },
         "transactions" : {
@@ -2951,7 +2951,7 @@
           "default" : "NOK",
           "minLength" : 3,
           "maxLength" : 3,
-          "pattern" : "`^[A-Z]{3}$",
+          "pattern" : "^[A-Z]{3}$",
           "example" : "NOK"
         },
         "creditLimit" : {
